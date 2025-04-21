@@ -48,7 +48,7 @@ Fine-tune a large language model using **LoRA** under a strict constraint of < 1
 
 Final Evaluation:
 ```text
-Accuracy on Validation Set: ~0.85
+Accuracy on Validation Set: ~0.9186
 ```
 
 ---
@@ -64,14 +64,22 @@ Add plots for:
 
 ## 📁 File Structure
 
-```
+## 🗂️ Directory Structure
+
 .
-├── lora_agnews.ipynb   # Final training & inference notebook
-├── test_unlabelled.pkl      # Provided unlabelled test data
-├── submission.csv           # Final Kaggle submission
-├── ag_news_lora_report.tex  # Final LaTeX project report
-├── README.md                # This file
-```
+├── code/
+│   ├── lora-agnews.ipynb
+├── docs/
+│   ├── Lora_Agnews_Report.pdf
+│   └── submission.csv
+├── data/
+│   └── test-unlabelled.pkl
+├── plots/
+│   ├── accuracy_curve.png
+│   └── loss_curve.png
+|   └── confusion-matrix.png
+├── README.md
+
 
 ---
 
