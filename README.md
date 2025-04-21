@@ -62,10 +62,8 @@ Add plots for:
 
 ---
 
-## 📁 File Structure
-
-## 🗂️ Directory Structure
-
+## File Structure
+```
 .
 ├── code/
 │   ├── lora-agnews.ipynb
@@ -80,7 +78,7 @@ Add plots for:
 |   └── confusion-matrix.png
 ├── README.md
 
-
+```
 ---
 
 ## How to Run
