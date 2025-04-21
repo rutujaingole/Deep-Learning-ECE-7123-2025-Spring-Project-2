@@ -23,8 +23,9 @@ Fine-tune a large language model using **LoRA** under a strict constraint of < 1
 - **Base model**: `roberta-base`
 - **Technique**: LoRA fine-tuning using [PEFT](https://github.com/huggingface/peft)
 - **Task Type**: `SEQ_CLS`
-- **Total parameters**: 125M
-- **Trainable parameters**: ~890K (~0.71%)
+- **Total parameters**: 125,611,016
+- **Trainable parameters**: 962,308 (~0.77%)
+
 
 ---
 
