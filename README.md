@@ -55,10 +55,10 @@ Accuracy on Validation Set: ~0.9186
 
 ## Visualizations
 
-Add plots for:
+Added plots for:
 - Training loss
 - Validation accuracy per epoch
-- Confusion matrix (if labels available)
+- Confusion matrix 
 
 ---
 
