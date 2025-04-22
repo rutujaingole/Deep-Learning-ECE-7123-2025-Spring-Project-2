@@ -1,7 +1,7 @@
 # Deep-Learning-ECE-7123-2025-Spring-Project-2
 # AG News Classification with LoRA Fine-Tuning (Spring 2025 Mini Project)
 
-This repository contains the code and report for the Deep Learning Mini Project (ECE-GY 7123) at NYU Tandon, Spring 2025. The objective was to fine-tune a pre-trained `roberta-base` model on the AG News classification task using **LoRA (Low-Rank Adaptation)**, a parameter-efficient fine-tuning (PEFT) technique.
+This repository contains the code and report for the Deep Learning Mini Project (ECE-GY 7123) at NYU, Spring 2025. The objective was to fine-tune a pre-trained `roberta-base` model on the AG News classification task using **LoRA (Low-Rank Adaptation)**, a parameter-efficient fine-tuning (PEFT) technique.
 
 ## Project Objective
 
