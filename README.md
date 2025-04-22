@@ -104,11 +104,11 @@ python inference.py
 ---
 
 ## Author
-
+```
 **Rutuja Ingole**  
 New York University
 Net ID: rdi4221
-
+```
 ---
 
 ## Acknowledgements
