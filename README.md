@@ -48,7 +48,7 @@ Fine-tune a large language model using **LoRA** under a strict constraint of < 1
 
 Final Evaluation:
 ```text
-Accuracy on Validation Set: ~0.9186
+Accuracy on Validation Set: ~0.9152
 ```
 
 ---
